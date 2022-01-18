@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    aliyun github actions demo
+    hello world
   </div>
 </template>
 
