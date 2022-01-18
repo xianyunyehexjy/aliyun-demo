@@ -29,4 +29,4 @@ jobs:
           REMOTE_HOST: '139.9.122.213' # 你的阿里云公网地址
           REMOTE_PORT: '5000' # 你的阿里云公网地址
           REMOTE_USER: root # 阿里云登录后默认为 root 用户，并且所在文件夹为 root
-          TARGET: /root/node-server # 打包后的 dist 文件夹将放在 /root/node-server
+          TARGET: /www/wwwroot/ # 打包后的 dist 文件夹将放在 /root/node-server
